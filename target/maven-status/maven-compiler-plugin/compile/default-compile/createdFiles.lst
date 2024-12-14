@@ -1,9 +1,10 @@
+cl\duoc\app\config\CorsConfig.class
 cl\duoc\app\App.class
-cl\duoc\app\config\ConfigTemplate.class
 cl\duoc\app\mapper\VentaMapper.class
 cl\duoc\app\controller\VentaController.class
 cl\duoc\app\dto\VentaDTO.class
 cl\duoc\app\repository\VentaRepository.class
 cl\duoc\app\model\Venta.class
+cl\duoc\app\config\CorsConfig$1.class
 cl\duoc\app\service\VentaServiceImpl.class
 cl\duoc\app\service\VentaService.class

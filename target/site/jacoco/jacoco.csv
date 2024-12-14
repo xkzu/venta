@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+venta,cl.duoc.app,App,0,8,0,0,0,3,0,2,0,2
+venta,cl.duoc.app.mapper,VentaMapper,0,52,0,0,0,14,0,2,0,2
+venta,cl.duoc.app.model,Venta,0,70,0,0,0,9,0,13,0,13
+venta,cl.duoc.app.controller,VentaController,0,41,0,0,0,12,0,3,0,3
+venta,cl.duoc.app.service,VentaServiceImpl,0,12,0,0,0,4,0,2,0,2
+venta,cl.duoc.app.dto,VentaDTO,0,70,0,0,0,9,0,13,0,13
+venta,cl.duoc.app.config,CorsConfig.new WebMvcConfigurer() {...},0,47,0,0,0,7,0,2,0,2
+venta,cl.duoc.app.config,CorsConfig,0,8,0,0,0,2,0,2,0,2
