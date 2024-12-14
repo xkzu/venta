@@ -1,1 +1,6 @@
 cl\duoc\app\AppTest.class
+cl\duoc\app\mapper\VentaMapperTest.class
+cl\duoc\app\controller\VentaControllerTest.class
+cl\duoc\app\dto\VentaDTOTest.class
+cl\duoc\app\service\VentaServiceImplTest.class
+cl\duoc\app\model\VentaTest.class

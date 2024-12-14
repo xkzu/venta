@@ -1,7 +1,9 @@
-F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\controller\ControllerTemplate.java
-F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\service\ServiceTemplateImpl.java
-F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\model\ModelTemplate.java
-F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\service\ServiceTemplate.java
+F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\service\VentaService.java
+F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\config\CorsConfig.java
+F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\mapper\VentaMapper.java
+F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\repository\VentaRepository.java
+F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\controller\VentaController.java
+F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\dto\VentaDTO.java
+F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\service\VentaServiceImpl.java
 F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\App.java
-F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\repository\RepositoryTemplate.java
-F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\config\ConfigTemplate.java
+F:\Dev\Duoc\Fullstack 3\venta\src\main\java\cl\duoc\app\model\Venta.java

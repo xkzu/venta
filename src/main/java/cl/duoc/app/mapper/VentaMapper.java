@@ -7,6 +7,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class VentaMapper {
 
+    private VentaMapper() {}
+
     public static VentaDTO toDTO(Venta venta) {
         VentaDTO dto = new VentaDTO();
         dto.setId(venta.getId());
