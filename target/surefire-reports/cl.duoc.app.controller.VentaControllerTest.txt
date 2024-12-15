@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: cl.duoc.app.controller.VentaControllerTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.839 s -- in cl.duoc.app.controller.VentaControllerTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.876 s -- in cl.duoc.app.controller.VentaControllerTest
