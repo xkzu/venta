@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: cl.duoc.app.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.496 s -- in cl.duoc.app.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.610 s -- in cl.duoc.app.AppTest
