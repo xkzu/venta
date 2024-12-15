@@ -4,38 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50d0a857-34f6-4d52-804f-e3abf0c361dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cl/duoc/app/dto/VentaDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cl/duoc/app/mapper/VentaMapper.java" afterDir="false" />
+    <list default="true" id="50d0a857-34f6-4d52-804f-e3abf0c361dd" name="Changes" comment="se quita origin en duro">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "xkzu"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xkzu&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/xkzu/venta.git",
-    "accountId": "9100e313-6502-4df8-97d0-0922ae7d81ae"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xkzu/venta.git&quot;,
+    &quot;accountId&quot;: &quot;9100e313-6502-4df8-97d0-0922ae7d81ae&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -49,12 +56,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.AppTest.executor": "Coverage",
+    "JUnit.ConfigTemplateTest.executor": "Coverage",
+    "JUnit.CorsConfigTest.executor": "Coverage",
+    "JUnit.VentaControllerTest.executor": "Coverage",
+    "JUnit.VentaDTOTest.executor": "Coverage",
+    "JUnit.VentaDTOTest.testEqualsAndHashCode.executor": "Coverage",
+    "JUnit.VentaMapperTest.executor": "Coverage",
+    "JUnit.VentaServiceImplTest.executor": "Coverage",
+    "JUnit.VentaTest.executor": "Coverage",
+    "Maven.sonar.executor": "Run",
     "Maven.venta [archetype:generate...].executor": "Run",
     "Maven.venta [clea,install].executor": "Run",
     "Maven.venta [clean,install].executor": "Run",
+    "Maven.venta [clean].executor": "Run",
     "Maven.venta [org.springframework.boot:spring-boot-maven-plugin:3.2.4:run].executor": "Run",
     "Maven.venta [spring-boot:run].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "F:/Dev/Duoc/Fullstack 3/venta",
@@ -63,15 +84,172 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Dev\Duoc\Fullstack 3\venta" />
+      <recent name="F:\Dev\Duoc\Fullstack 3\venta\src\main\resources" />
       <recent name="F:\Dev\Duoc\Fullstack 3\venta\src\main" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cl.duoc.app.config" />
+      <recent name="cl.duoc.app.controller" />
+      <recent name="cl.duoc.app.service" />
+      <recent name="cl.duoc.app.mapper" />
+      <recent name="cl.duoc.app.model" />
+    </key>
   </component>
-  <component name="RunManager" selected="Maven.venta [spring-boot:run]">
+  <component name="RunManager" selected="Maven.venta [clean]">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="venta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.duoc.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.duoc.app" />
+      <option name="MAIN_CLASS_NAME" value="cl.duoc.app.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CorsConfigTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="venta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.duoc.app.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.duoc.app.config" />
+      <option name="MAIN_CLASS_NAME" value="cl.duoc.app.config.CorsConfigTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VentaControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="venta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.duoc.app.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.duoc.app.controller" />
+      <option name="MAIN_CLASS_NAME" value="cl.duoc.app.controller.VentaControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VentaMapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="venta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.duoc.app.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.duoc.app.mapper" />
+      <option name="MAIN_CLASS_NAME" value="cl.duoc.app.mapper.VentaMapperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VentaServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="venta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.duoc.app.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.duoc.app.service" />
+      <option name="MAIN_CLASS_NAME" value="cl.duoc.app.service.VentaServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sonar" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="verify" />
+                <option value="sonar:sonar" />
+                <option value="-Dsonar.projectKey=venta" />
+                <option value="-Dsonar.projectName=venta" />
+                <option value="-Dsonar.host.url=http://localhost:9000" />
+                <option value="-Dsonar.token=sqp_ed0ea1546d6f2c69f06e960c9b9b6251e557dc0e" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="venta [clean]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="venta [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -110,6 +288,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.AppTest" />
+      <item itemvalue="JUnit.CorsConfigTest" />
+      <item itemvalue="JUnit.VentaControllerTest" />
+      <item itemvalue="JUnit.VentaMapperTest" />
+      <item itemvalue="JUnit.VentaServiceImplTest" />
+      <item itemvalue="Maven.venta [clean]" />
+      <item itemvalue="Maven.sonar" />
+      <item itemvalue="Maven.venta [spring-boot:run]" />
+      <item itemvalue="Spring Boot.App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CorsConfigTest" />
+        <item itemvalue="JUnit.VentaServiceImplTest" />
+        <item itemvalue="JUnit.VentaControllerTest" />
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.VentaMapperTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -128,11 +326,188 @@
       <option name="presentableId" value="Default" />
       <updated>1731788920037</updated>
       <workItem from="1731788921082" duration="5636000" />
-      <workItem from="1733731114036" duration="7627000" />
+      <workItem from="1733731114036" duration="8317000" />
+      <workItem from="1734150168740" duration="14369000" />
+      <workItem from="1734205521894" duration="4382000" />
     </task>
+    <task id="LOCAL-00001" summary="sumativa 3">
+      <option name="closed" value="true" />
+      <created>1733798934132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733798934132</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sumativa 3">
+      <option name="closed" value="true" />
+      <created>1733798949772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733798949772</updated>
+    </task>
+    <task id="LOCAL-00003" summary="target">
+      <option name="closed" value="true" />
+      <created>1734210360809</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734210360809</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git ignore">
+      <option name="closed" value="true" />
+      <created>1734210408266</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734210408266</updated>
+    </task>
+    <task id="LOCAL-00005" summary="wallet">
+      <option name="closed" value="true" />
+      <created>1734210555662</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734210555662</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add docker compose">
+      <option name="closed" value="true" />
+      <created>1734210665119</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734210665119</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add dockerfile">
+      <option name="closed" value="true" />
+      <created>1734210682184</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734210682184</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add lombok config">
+      <option name="closed" value="true" />
+      <created>1734210695454</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734210695454</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add test unitarios">
+      <option name="closed" value="true" />
+      <created>1734210761870</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734210761870</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add test unitarios">
+      <option name="closed" value="true" />
+      <created>1734210771661</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1734210771661</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add varialble dominio">
+      <option name="closed" value="true" />
+      <created>1734210885228</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1734210885228</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add corsconfig">
+      <option name="closed" value="true" />
+      <created>1734210908444</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734210908444</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add dependeicias para test unitarios">
+      <option name="closed" value="true" />
+      <created>1734210981064</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1734210981064</updated>
+    </task>
+    <task id="LOCAL-00014" summary="se modifica uso de lombok">
+      <option name="closed" value="true" />
+      <created>1734211012847</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1734211012847</updated>
+    </task>
+    <task id="LOCAL-00015" summary="se agrega contructor privado">
+      <option name="closed" value="true" />
+      <created>1734211031420</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1734211031420</updated>
+    </task>
+    <task id="LOCAL-00016" summary="se quita origin en duro">
+      <option name="closed" value="true" />
+      <created>1734211083181</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1734211083181</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sumativa 3" />
+    <MESSAGE value="target" />
+    <MESSAGE value="git ignore" />
+    <MESSAGE value="wallet" />
+    <MESSAGE value="add docker compose" />
+    <MESSAGE value="add dockerfile" />
+    <MESSAGE value="add lombok config" />
+    <MESSAGE value="add test unitarios" />
+    <MESSAGE value="add varialble dominio" />
+    <MESSAGE value="add corsconfig" />
+    <MESSAGE value="add dependeicias para test unitarios" />
+    <MESSAGE value="se modifica uso de lombok" />
+    <MESSAGE value="se agrega contructor privado" />
+    <MESSAGE value="se quita origin en duro" />
+    <option name="LAST_COMMIT_MESSAGE" value="se quita origin en duro" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/venta$VentaDTOTest.ic" NAME="VentaDTOTest Coverage Results" MODIFIED="1734159461575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>cl.duoc.app.dto.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/venta$VentaMapperTest.ic" NAME="VentaMapperTest Coverage Results" MODIFIED="1734159842042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>cl.duoc.app.mapper.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/venta$VentaControllerTest.ic" NAME="VentaControllerTest Coverage Results" MODIFIED="1734162684526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>cl.duoc.app.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/venta$VentaDTOTest_testEqualsAndHashCode.ic" NAME="VentaDTOTest.testEqualsAndHashCode Coverage Results" MODIFIED="1734159194086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>cl.duoc.app.dto.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/venta$AppTest.ic" NAME="AppTest Coverage Results" MODIFIED="1734160599387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>cl.duoc.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/venta$CorsConfigTest.ic" NAME="CorsConfigTest Coverage Results" MODIFIED="1734169933510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>cl.duoc.app.config.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/venta$ConfigTemplateTest.ic" NAME="ConfigTemplateTest Coverage Results" MODIFIED="1734160157754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>cl.duoc.app.config.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/venta$VentaTest.ic" NAME="VentaTest Coverage Results" MODIFIED="1734159650987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>cl.duoc.app.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/venta$VentaServiceImplTest.ic" NAME="VentaServiceImplTest Coverage Results" MODIFIED="1734168964628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>cl.duoc.app.service.*</FILTER>
+    </SUITE>
   </component>
 </project>
